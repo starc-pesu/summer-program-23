@@ -1,0 +1,31 @@
+,,,,DATA SET OBTAINED BY ALGORITHIM FOR A MATCH HIGHLIGHT CLIP,,,,,,,,,,,,,,,,
+Ball Number,Frame Image,Dot,Single,Double,Four,Six,Leg Glance,Sweep,Hook,Pull,OnDrive,Lofted Drive,Straight Drive,Off Drive,Cover Drive,Square Drive,Square Cut,Reverse Sweep,Upper Cut,Scoop
+41.1,,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+43.2,,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+43.4,,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+44.4,,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+47.1,,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+50.1,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+50.3,,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+54.2,,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+56.3,,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+59.1,,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+60,,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+60.2,,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+61.1,,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+61.2,,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+63,,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+67.1,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+67.4,,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+71,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+,,,,CRICKET MATCH DATASET TESTING ,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,"2023 England v Australia - 4th Test
+Old Trafford, Manchester
+19th July, 2023",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,592,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,Match drawn,,,,,,,,,,,,,,,,,
+,"        317 & 214/5
+",,,,,,,,,,,,,,,,,,,
